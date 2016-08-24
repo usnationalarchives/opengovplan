@@ -7,11 +7,11 @@ description: ""
 
 ## Open Government Plan
 
-### National Archives and Records Administration 2016–2018
+<h3>National Archives and Records Administration 2016–2018</h3>
 
 <img src="assets/images/logo.png" alt="National Archives and Records Administration" style="max-width:200px;">
 
-#### Message from the Archivist
+<h4>Message from the Archivist</h4>
 
 <img src="assets/images/archivist.png" alt="archivist" style="float:right;max-width:200px;">
 Since 2010 we have embraced the requirements of the Open Government Directive, which set forth requirements for agencies to adopt the principles of transparency, participation, and collaboration and develop open government plans. In our previous open government plans, we worked to implement more than 140 commitments in areas of records management, declassification, the Freedom of Information Action, and in innovative ways of providing access to the records of the National Archives.
