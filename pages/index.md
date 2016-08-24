@@ -6,7 +6,9 @@ description: ""
 ---
 
 ## Open Government Plan
+
 ### National Archives and Records Administration 2016–2018
+
 <img src="assets/images/logo.png" alt="National Archives and Records Administration" style="max-width:200px;">
 
 #### Message from the Archivist
