@@ -13,6 +13,7 @@ body{
 
 header .pg_header h1,h2{
   font-family:UniveLigUltCon;
+
 }
 
 article{
@@ -59,12 +60,12 @@ header .pg_header{
 }
 
 header .pg_header h1{
-	font-size:1.6em;
+	font-size:2em;
 	line-height:1em;
 }
 
 header .pg_header h2{
-	font-size:1.2em;
+	font-size:1.6em;
 	height:auto;
 	margin:0;
 }
