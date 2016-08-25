@@ -1,9 +1,13 @@
 body{
   color:black;
   line-height:2.2em;
+
+
+
 }
 .mycontainer{
   font-size:initial;
+
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
@@ -37,8 +41,6 @@ header{
   display:block;
   position:relative;
   padding: 0;
-  background: url(../images/headerbg.png) left top repeat-x;
-
 
 }
 
@@ -50,12 +52,32 @@ header img{
 
 }
 
+div header{
+  background-color:#FEBD25;
+  background: top left url(../images/bannerbg.png);
+}
+header div.badge{
+  max-width:300px;
+  float:left;
+  background-color:none !important;
+  padding:0;
 
-header .pg_header{
+}
 
-  padding-top:20px;
-  width:28%;
+header .pheader{
+  display:block;
   position:relative;
+  padding-left:250px;
+
+
+}
+
+.pheader h1, .pheader h2{
+  color:black;
+}
+
+.pheader_body{
+
 
 }
 
@@ -70,20 +92,46 @@ header .pg_header h2{
 	margin:0;
 }
 header .pg_header h2 a{
-	color:white;
+	/*color:white;*/
 }
 
+header .pg_header{
+  display:block;
+  padding-top:50px;
+
+
+
+}
 header .header_menu{
+  position:absolute;
   font-size:1em;
   line-height:1em;
-  margin-top:-1.2em;
+
   padding-right:10px;
+  bottom:-60px;
+  right:0px;
+
 }
 
 header .header_menu, header .header_menu a, header .header_menu a:link{
   color: #0072ce !important;
 }
 @media screen and (max-width: 600px) {
+
+  header div.badge{
+    float:none;
+  }
+  header .pheader{
+    float:none;
+    padding-top: 10px;
+    padding-left:0px;
+    display:block;
+    padding-bottom:15px;
+
+  }
+  header .header_menu{
+    bottom:0px;
+  }
   header {
     min-height:0px;
   }

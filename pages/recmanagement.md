@@ -11,6 +11,7 @@ description: ""
 
 #### 6.1 Records Management: The Backbone of Open Government
 
+<img src="../assets/images/records-mgmt.png" alt="" style="float:right;max-width:200px">
 <p>(<a href="http://archives.gov/records-mgmt/">Archives.gov/records-mgmt/</a>)</p>
 
 <p>NARA works in conjunction with agencies to determine which federal records may be disposed of and which must be permanently preserved for access by future generations.&nbsp; It is one of the most important responsibilities of the Archivist of the United States and it lends profound meaning to the mantra, “Good records management is the backbone of open government.” It makes possible transparency and accountability, which is necessary for success in the overall Open Government Initiative.&nbsp;</p>
@@ -72,10 +73,9 @@ A proposed rule published on March 9, 2016, proposing changes to the following C
   <li>Part 1239, Program Assistance and Inspections.</li>
 </ul>
 
-<p>&nbsp;</p>
 
-<p>We are preparing to issue a proposed rule that would update the following parts:<br />
-&nbsp;</p>
+
+<p>We are preparing to issue a proposed rule that would update the following parts:</p>
 
 <ul>
   <li>Part 1235, Transfer of Records to the National Archives of the United States;</li>

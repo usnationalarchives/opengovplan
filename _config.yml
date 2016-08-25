@@ -37,8 +37,10 @@ branch: gh-pages
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: "Message from the Archivist"
+- text: "Home"
   url: /
+- text: "Message from the Archivist"
+  url: /messages/
 - text: "Executive Summary"
   url: /summary/
 - text: "Section 1: The Approach to Open Government "
