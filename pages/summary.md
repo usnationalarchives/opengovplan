@@ -5,7 +5,7 @@ permalink: /summary/
 description: ""
 ---
 
-## National Archives and Records Administration 2016–2018
+## Open Government Plan 2016 - 2018
 
 ### Executive Summary
 

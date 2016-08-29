@@ -5,7 +5,7 @@ permalink: /flagshipinitiatives/
 description: ""
 ---
 
-## National Archives and Records Administration 2016–2018
+## Open Government Plan 2016 - 2018
 
 ### Section 3: Flagship Initiatives: Make Access Happen Through Innovation
 

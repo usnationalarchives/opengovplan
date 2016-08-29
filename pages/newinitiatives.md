@@ -5,7 +5,7 @@ permalink: /newinitiatives/
 description: ""
 ---
 
-## National Archives and Records Administration 2016–2018
+## Open Government Plan 2016 - 2018
 
 ### Section 5: New and Ongoing Open Government Initiatives
 

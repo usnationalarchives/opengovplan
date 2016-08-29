@@ -5,7 +5,7 @@ permalink: /appendixc/
 description: ""
 ---
 
-## National Archives and Records Administration 2016–2018
+## Open Government Plan 2016 - 2018
 
 ### Appendix C: Updates to 2014–2016 NARA Open Government Commitments
 

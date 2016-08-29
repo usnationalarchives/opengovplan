@@ -5,7 +5,7 @@ permalink: /appendixb/
 description: ""
 ---
 
-## National Archives and Records Administration 2016–2018
+## Open Government Plan 2016 - 2018
 
 ### Appendix B: 2016–2018 NARA Open Government Commitments
 

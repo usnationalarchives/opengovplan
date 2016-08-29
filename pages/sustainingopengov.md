@@ -5,7 +5,7 @@ permalink: /sustainingopengov/
 description: ""
 ---
 
-## National Archives and Records Administration 2016–2018
+## Open Government Plan 2016 - 2018
 
 ### 2.1 Sustaining Open Government
 

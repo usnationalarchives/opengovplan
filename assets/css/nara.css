@@ -53,8 +53,8 @@ header img{
 }
 
 div header{
-  background-color:#FEBD25;
-  background: top left url(../images/bannerbg.png);
+  background-color:#F7F7F7;
+  /*background: top left url(../images/bannerbg.png);*/
 }
 header div.badge{
   max-width:300px;
@@ -63,11 +63,14 @@ header div.badge{
   padding:0;
 
 }
+header div.badge img{
+  max-width:150px;
 
+}
 header .pheader{
   display:block;
   position:relative;
-  padding-left:250px;
+  padding-left:200px;
 
 
 }
@@ -97,7 +100,7 @@ header .pg_header h2 a{
 
 header .pg_header{
   display:block;
-  padding-top:50px;
+  padding-top:30px;
 
 
 
@@ -108,7 +111,7 @@ header .header_menu{
   line-height:1em;
 
   padding-right:10px;
-  bottom:-60px;
+  bottom:-30px;
   right:0px;
 
 }
