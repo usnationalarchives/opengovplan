@@ -6,7 +6,7 @@ description: ""
 ---
 
 <div style="text-align:center">
-## Open Government Plan 2016 - 2018
+<h2>Open Government Plan 2016 - 2018</h2>
 
 
 
