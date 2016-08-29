@@ -43,72 +43,72 @@ navigation:
   url: /messages/
 - text: "Executive Summary"
   url: /summary/
-- text: "Section 1: The Approach to Open Government "
+- text: "Section 1: <span>The Approach to Open Government</span> "
   url: /approachopengov/
 
-- text: "Section 2: Strengthen the Culture of Open Government"
+- text: "Section 2: <span>Strengthen the Culture of Open Government</span>"
   url: /strengthenopengov/
 
   sub_navigation:
-  - text: "2.1 Sustaining Open Government "
+  - text: "2.1 <span>Sustaining Open Government </span>"
     url: /sustainingopengov/
 
-  - text: "2.2 Public Engagement"
+  - text: "2.2 <span>Public Engagement</span>"
     url: /pubengagement/
 
-  - text: "2.3 Research Services"
+  - text: "2.3 <span>Research Services</span>"
     url: /researchservices/
 
-  - text: "2.4 Presidential Libraries"
+  - text: "2.4 <span>Presidential Libraries</span>"
     url: /presidentiallibraries/
 
-  - text: "2.5 Employee Engagement"
+  - text: "2.5 <span>Employee Engagement</span>"
     url: /employeeengagement/
 
-- text: "Section 3: Flagship Initiatives: Make Access Happen Through Innovation"
+- text: "Section 3: <span>Flagship Initiatives: Make Access Happen Through Innovation</span>"
   url: /flagshipinitiatives/
 
-- text: "Section 4: Freedom of Information Act"
+- text: "Section 4: <span>Freedom of Information Act</span>"
   url: /foia/
 
-- text: "Section 5: New and Ongoing Open Government Initiatives"
+- text: "Section 5: <span>New and Ongoing Open Government Initiatives</span>"
   url: /newinitiatives/
 
-- text: "Section 6: Provide Leadership and Services"
+- text: "Section 6: <span>Provide Leadership and Services</span>"
 
 
   sub_navigation:
-  - text: "6.1 Records Management: The Backbone of Open Government"
+  - text: "6.1 <span>Records Management: The Backbone of Open Government</span>"
     url: /recmanagement/
 
-  - text: "6.2 National Declassification Center"
+  - text: "6.2 <span>National Declassification Center</span>"
     url: /declassification/
 
-  - text: "6.3 Federal Records Centers"
+  - text: "6.3 <span>Federal Records Centers</span>"
     url: /fedrecordscenters/
 
-  - text: "6.4 Electronic Records Archives"
+  - text: "6.4 <span>Electronic Records Archives</span>"
     url: /erecordsarchives/
 
-  - text: "6.5 Office of Government Information Services"
+  - text: "6.5 <span>Office of Government Information Services</span>"
     url: /informationservice/
 
-  - text: "6.6 Information Security Oversight Office"
+  - text: "6.6 <span>Information Security Oversight Office</span>"
     url: /informationsecurityoffice/
 
-  - text: "6.7 Office of the Federal Register"
+  - text: "6.7 <span>Office of the Federal Register</span>"
     url: /fedregister/
 
-  - text: "6.8 National Historical Publications and Records Commission"
+  - text: "6.8 <span>National Historical Publications and Records Commission</span>"
     url: /publicationsrecords/
 
-- text: "Appendix A: Summary of Comments Received"
+- text: "Appendix A: <span>Summary of Comments Received"
   url: /appendixa/
 
-- text: "Appendix B: 2016-2018 NARA Open Government Commitments"
+- text: "Appendix B: <span>2016-2018 NARA Open Government Commitments</span>"
   url: /appendixb/
 
-- text: "Appendix C: Updates to 2014–2016 NARA Open Government Commitments"
+- text: "Appendix C: <span>Updates to 2014–2016 NARA Open Government Commitments</span>"
   url: /appendixc/
 
 

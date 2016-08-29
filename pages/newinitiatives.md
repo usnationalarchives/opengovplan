@@ -23,7 +23,7 @@ description: ""
 
 <p>NARA also continues to work to implement open data policies, including the May 9, 2013, Executive Order (EO 13642) and accompanying Open Data Policy - Managing Information as an Asset (M-13-13). The policy requires agencies to open data and information in machine-readable formats in order to fuel innovation in government and the private sector. Our Open Data efforts are an expansion of our work in open government and Digital Government Strategy and support the agency’s transparency efforts and engagement with citizen developers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
 
 <p><strong>Enterprise Data Inventory </strong></p>
 
@@ -51,13 +51,13 @@ NARA will determine whether data assets have a valid restriction to release and 
 <p><strong>Learn More</strong><br />
 To learn more about the agency’s implementation of the Open Data Policy, please visit <a href="http://www.archives.gov/data/">Archives.gov/data/</a>. To learn more about high-value datasets NARA makes available, please visit<a href="http://www.archives.gov/open/available-datasets.html"> Archives.gov/open/available-datasets.html</a>. To learn more about NARA’s resources for developers, please visit <a href="http://www.archives.gov/developer/index.html">Aarchives.gov/developer/index.html</a>.</p>
 
-<h2>DATA Act and Spending Information</h2>
+<h4>DATA Act and Spending Information</h4>
 
 <p>The implementation of the DATA Act provides another opportunity for NARA to deliver on the promise of an open government. NARA is working diligently to increase the availability, accuracy, and usefulness of our procurement and financial assistance spending data. In accordance with the DATA Act, the spending data will be published on the USASpending.gov website making it transparent to the public. Our stakeholders should find the data on this site to be more accessible, searchable, and reliable. Providing accurate and timely data will improve NARA’s accountability to its stakeholders and will foster two-way communication and an open exchange of ideas to improve government spending.&nbsp; NARA is committed to driving openness, cultivating public participation, and strengthen our nation’s democracy.</p>
 
 <p>In accordance with the DATA Act and open government, NARA is working to transform the way we do business by making our federal spending data public and receiving input from our stakeholders to improve our internal management decisions. Award-level data published on the USASpending.gov website will not only make it easier to understand how NARA spends taxpayer dollars but will also serve as a tool for better oversight, data-centric decision-making, and innovation. Improved transparency in federal spending data allows NARA to make better management decisions and increase efficiency through automated reporting.</p>
 
-<h2>Open Source</h2>
+<h4>Open Source</h4>
 
 <p>NARA will strengthen the agency’s use of open source tools and platforms over the next two years.&nbsp; More than five years ago, NARA was one of the first agencies to have a presence and release code on GitHub, the collaborative social coding platform. We started with a set of digitization tools and expanded to include the code for FederalRegister.gov, which is an entirely open source project. Since then, we expanded our use of GitHub to solicit feedback from the public on improvements and data assets they would like to see made available and we published documentation and tools for the National Archives Catalog API. We also launched a repository and pages containing data sets for agencies utilizing the Capstone Approach to email records management, including a list of Capstone Officials by position titles. To learn more about NARA’s GitHub presence and to see all public repositories, please visit <a href="https://github.com/usnationalarchives">Github.com/usnationalarchives</a>.&nbsp;</p>
 
@@ -69,11 +69,11 @@ To learn more about the agency’s implementation of the Open Data Policy, pleas
 
 <p>Additionally, NARA will leverage and develop open source tools for use in the Electronic Records Archives (ERA) 2.0 development efforts. Where NARA develops software tools in-house for ERA 2.0, NARA will release those tools to the public for reuse under an open source license with a public domain dedication. For more information on these efforts, please see section 6.4, “Electronic Records Archives.”</p>
 
-<h2>Open Educational Resources</h2>
+<h4>Open Educational Resources</h4>
 
 <p>In conjunction with the federal initiative to support Open Educational Resources (OER) to provide equitable access to quality education, the National Archives is publishing teaching tools that are clearly identified as OER. Following the recent overhaul of the National Archives' DocsTeach website, all teaching activities on the site are labeled with the CC0 tool—the "no copyright reserved" option in the Creative Commons toolkit. Additionally, activities created by the National Archives education team are included in the Open Node of the Learning Registry, a joint effort of the Department of Education and the Department of Defense that aggregates metadata about learning resources to enable educators, publishers and developers to locate and consume them; these resources are being featured in the U.S. Department of Education’s #GoOpen campaign that encourages states, school districts and educators to use openly licensed educational materials. In addition to labeling DocsTeach activities with CC0, all primary sources on the site—records from the holdings of the National Archives—now include clear copyright information and full citations. We will continue to label all other OERs that we create as such, so that educators and students can use all of our resources in the most informed and responsible manner possible.</p>
 
-<h2>Proactive Disclosures</h2>
+<h4>Proactive Disclosures</h4>
 
 <p>The National Archives and Records Administration (NARA) seeks to proactively release operational records to increase the level of transparency the public has into the working of the agency. NARA has also made available online both the bi-weekly calendars of the Archivist of the United States and agencies’ records control schedules.</p>
 
@@ -101,7 +101,7 @@ The Archivist of the United States, David S. Ferriero’s bi-weekly calendar is 
 
 <p>In 2010, NARA began to make records schedules available online through the Records Control Schedule repository available at <a href="http://www.archives.gov/records-mgmt/rcs/">Archives.gov/records-mgmt/rcs/</a>. The repository provides access to scanned versions of records schedules or Standard Form 115, Request for Disposition Authority, which have been developed by federal agencies and approved by the Archivist of the United States. The repository includes images of all post-1973, unclassified records schedules. Also included are records schedules that have been closed without further action, or withdrawn, and are not approved by the Archivist of the United States. Newly approved records schedules are published weekly.</p>
 
-<h2>NARA Corporate Records Management</h2>
+<h4>NARA Corporate Records Management</h4>
 
 <p>In May 2016, the National Archives and Records Administration (NARA) became the first agency in the government to use the <a href="http://www.archives.gov/records-mgmt/memos/ac39-2015.html">General Records Schedule (GRS) 6.1</a> (otherwise known as the Capstone GRS) for email retention. NARA will meet the goal to manage all email records in an accessible electronic format by December 31, 2016.</p>
 
@@ -113,7 +113,7 @@ The Archivist of the United States, David S. Ferriero’s bi-weekly calendar is 
 
 <p>To learn more about NARA’s records schedule, please visit: <a href="http://www.archives.gov/about/records-schedule/">Archives.gov/about/records-schedule/</a>. NARA’s permanent historical records are in Record Group 64. To learn more about this record group, please visit <a href="http://www.archives.gov/research/guide-fed-records/groups/064.html">Archives.gov/research/guide-fed-records/groups/064.html</a>.</p>
 
-<h2>Privacy</h2>
+<h4>Privacy</h4>
 
 <p>Protecting the privacy of both our customers and the public is of paramount interest to the National Archives. As NARA focuses on accessions of electronic records and digitization and online release of older holdings, NARA has taken on an active role as a member of the newly formed Federal Privacy Council. This Council, established by <a href="https://www.whitehouse.gov/the-press-office/2016/02/09/executive-order-establishment-federal-privacy-council">Executive Order</a> in February <a href="https://www.whitehouse.gov/the-press-office/2016/02/09/executive-order-establishment-federal-privacy-council">2016</a>, refocused energy on protecting privacy throughout the government. Following on the EO, NARA has been closely monitoring proposed changes to Office of Management and Budget Circular A-130, which sets forth government wide policy on information management and tasks an agency’s Senior Agency Official for Privacy with a variety of responsibilities.</p>
 
@@ -127,11 +127,11 @@ The Archivist of the United States, David S. Ferriero’s bi-weekly calendar is 
 
 <p>NARA’s only required privacy report is the Senior Agency Official for Privacy’s section of our annual Federal Information Security Management Act (FISMA) report to OMB. This report is not publicly available. Learn more about NARA's Privacy Program at <a href="http://www.archives.gov/foia/privacy-program/">Archives.gov/foia/privacy-program/</a>.</p>
 
-<h2>Policymaking Process</h2>
+<h4>Policymaking Process</h4>
 
 <p>NARA’s policymaking process for creating and revising NARA regulations will continue to incorporate online public engagement through Regulations.gov and RegInfo.gov, which provide information to the public on the status of pending regulations. Additionally, the National Archives has provided a step-by-step narrative about how it develops or changes regulations, available at<a href="http://www.archives.gov/about/regulations/process.html"> A</a><a href="http://www.archives.gov/about/regulations/process.html">rchives.gov/about/regulations/process.html</a>.&nbsp;</p>
 
-<h2>Participation in Transparency Initiatives</h2>
+<h4>Participation in Transparency Initiatives</h4>
 
 <p>NARA’s participation in transparency initiatives includes the following efforts:</p>
 
@@ -143,23 +143,23 @@ The Archivist of the United States, David S. Ferriero’s bi-weekly calendar is 
 
 <p><strong>SAM.gov, USASpending.gov, and FSRS.gov</strong> - NARA uses SAM.gov to ensure that potential vendors and grantees are registered in the Central Contractor Registry (CCR), have appropriate representations and certifications, and are eligible to do business with the government (not suspended, debarred, or otherwise excluded) before contract/grant award. NARA reports contract awards and grant awards to the public through USASpending.gov and requires prime contractors to report subcontracts and prime grantees to report subgrants through FSRS.gov.</p>
 
-<h2>Whistleblower Protection</h2>
+<h4>Whistleblower Protection</h4>
 
 <p>NARA obtained 2032(c) Certification from the U.S. Office of Special Counsel (OSC) in July 2015.&nbsp; All new employees receive information about the Whistleblower Protection Act and prohibited personnel practices during their on-boarding.&nbsp; Every October, NARA issues an Agency-wide notice to all employees regarding employees’ rights under the Whistleblower Protection Act.&nbsp; NARA's Fundamentals of Supervision training course for new supervisors includes a module on prohibited personnel practices and whistleblower protection. In addition, NARA has implemented PPD-19 and provided employees with the notice required in the Whistleblower Protection Enhancements Act.</p>
 
-<h2>Public Participation Playbook</h2>
+<h4>Public Participation Playbook</h4>
 
 <p>NARA is leveraging the <a href="https://participation.usa.gov/">U.S. Public Participation Playbook</a> to inform the development of several of the Flagship Initiatives of this Open Government Plan. We are using play 2 of the Playbook, “Understanding your participants and stakeholder groups,” in the development of personas representing NARA’s digital audiences and in customer “journey mapping” to incorporate user-centered design. Play 9, “Encouraging community building through responsive outreach,” lies at the foundation of our efforts to develop communities around the citizen archivist crowdsourcing efforts and the History Hub project. Play 11, “Using data to drive decision making,” has helped our efforts to target the most important areas of Archives.gov as we begin a redesign. For more information about our Flagship Initiatives, please see Section 3 of this plan.</p>
 
-<h2>Analytics.usa.gov</h2>
+<h4>Analytics.usa.gov</h4>
 
 <p>NARA was one of the first ten agencies to participate in Analytics.usa.gov through the Digital Analytics Program. The analytics.usa.gov dashboard enables transparency into the web traffic to NARA’s sites. We are also investigating the development of a dashboard that would focus on more granular levels of NARA’s web content. These topic-based dashboards would allow even greater transparency into use of NARA’s websites for NARA staff and external stakeholders.</p>
 
-<h2>Congressional Requests</h2>
+<h4>Congressional Requests</h4>
 
 <p>The Congressional Affairs Office of the National Archives serves as the principal point of contact with Capitol Hill and can assist offices with constituent concerns or questions regarding agency policy and procedures. To learn more about the Congressional Affairs Office please visit <a href="http://www.archives.gov/congress">Archives.gov/congress</a>.</p>
 
-<h2>Public Notice</h2>
+<h4>Public Notice</h4>
 
 <p>Strengthening transparency at NARA requires active communication of our progress to the public. We strive to communicate in an efficient and clear way the major milestones and significant actions and business of our agency. We will continue to make announcements in both traditional ways and through social media to encourage two-way communication with the public. While social media is an important and highly interactive way to engage the public, we also realize that more traditional forms of media are sometimes better at reaching members of the public who do not have immediate access to the Internet. A few examples of actions that will be communicated with the public include:</p>
 
@@ -183,7 +183,7 @@ The Archivist of the United States, David S. Ferriero’s bi-weekly calendar is 
 
 <p>Through our NARAtions blog (<a href="https://narations.blogs.archives.gov/">Narations.blogs.archives.gov/</a>), we converse with researchers about issues relating to access to records (both traditional and digital) and the research experience. The Pieces of History blog (<a href="https://prologue.blogs.archives.gov/">Prologue.blogs.archives.gov/</a>) tells the public about our holdings and our history. Through our Records Express blog (http://blogs.archives.gov/records-express/), we provide the latest information regarding Government-wide records management activities. To learn more about all of NARA’s blogs and social media tools, please visit <a href="http://archives.gov/social-media/">Archives.gov/social-media/</a>.&nbsp;&nbsp;</p>
 
-<h2>Plain Writing</h2>
+<h4>Plain Writing</h4>
 
 <p>President Obama signed the Plain Writing Act of 2010 on October 13, 2010. The act requires federal agencies to write “clear Government communication that the public can understand and use.” The Plain Writing Act calls for writing that is clear, concise, well organized, and consistent with other best practices appropriate to the subject or field and intended audience. Such writing avoids jargon, redundancy, ambiguity, and obscurity.</p>
 

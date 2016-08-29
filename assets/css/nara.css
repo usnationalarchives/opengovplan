@@ -227,3 +227,10 @@ a:after{
 }
 
 }
+
+.sidebar-navul span{
+  font-size: 90%;
+}
+.sidebar-navul span span{
+  font-size:100%;
+}
