@@ -72,14 +72,15 @@ header div.hbadge{
 
 }
 header div.hbadge img{
-  padding:30px 20px;
+  padding:0px 20px;
+  padding-bottom:20px;
 
 
 }
 header .pheader{
   display:block;
   position:relative;
-  padding-top:40px;
+  padding-top:20px;
   padding-left:250px;
 }
 
@@ -144,7 +145,8 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 
   }
   header div.hbadge img{
-    padding:30px 20px;
+    padding:0px 20px;
+    padding-bottom:20px;
 
 
   }
@@ -169,7 +171,8 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 
   }
   header div.hbadge img{
-    padding:30px 20px;
+    padding:0px 20px;
+    padding-bottom:20px;
 
 
   }
