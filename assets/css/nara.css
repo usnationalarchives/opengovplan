@@ -18,6 +18,26 @@ table{
   font-size: 1.5em;
 }
 
+.main-content .h1, h1{
+  font-size:2em;
+}
+
+.main-content .h2,h2{
+  font-size:1.8em;
+}
+
+.main-content .h3,h3{
+  font-size:1.6em;
+}
+
+.main-content .h4,h4{
+  font-size:1.4em;
+}
+
+.main-content .h5,h5{
+  font-size:1.2em;
+}
+
 header .pg_header h1,h2{
   /*font-family:UniveLigUltCon;*/
   font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -68,20 +88,20 @@ header div.hbadge{
 
   padding:0px 0px;
   padding-left:20px;
-  width: 300px;
+  width: 180px;
 
 }
 header div.hbadge img{
   padding:0px 20px;
-  padding-bottom:20px;
+  padding-bottom:15px;
 
 
 }
 header .pheader{
   display:block;
   position:relative;
-  padding-top:20px;
-  padding-left:250px;
+  padding-top:0px;
+  padding-left:200px;
 }
 
 .pheader h1, .pheader h2{
@@ -89,13 +109,13 @@ header .pheader{
 }
 
 .pheader_body{
-  padding-left:100px;
+  padding-left:0px;
 
 
 }
 
 header .pg_header h1{
-	font-size:4em;
+	font-size:2em;
 	line-height:1.5em;
   font-weight:bold;
 }
@@ -105,7 +125,7 @@ header .pg_header h1 span{
 }
 
 header .pg_header h2{
-	font-size:2.5em;
+	font-size:1em;
 	height:auto;
   font-weight:normal;
 	margin:0;
@@ -128,7 +148,7 @@ header .header_menu{
   line-height:1em;
 
   padding-right:10px;
-  bottom:-50px;
+  bottom:-30px;
   right:0px;
 
 }
@@ -140,52 +160,53 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 @media screen and (max-width: 1200px) {
   header div.hbadge{
     padding-left:20px;
-    width: 250px;
 
 
   }
   header div.hbadge img{
-    padding:0px 20px;
-    padding-bottom:20px;
-
 
   }
   header .pheader{
-    padding-top:10px;
-    padding-left:150px;
+
   }
 
   header .pg_header h1{
-    font-size:2.5em;
+    font-size:2em;
   }
   header .pg_header h2{
     font-size:1.5em;
+  }
+
+  header .header_menu{
+    bottom:-20px;
   }
 }
 
 @media screen and (max-width: 900px) {
   header div.hbadge{
     padding-left:20px;
-    width: 250px;
 
 
   }
   header div.hbadge img{
-    padding:0px 20px;
-    padding-bottom:20px;
-
 
   }
   header .pheader{
-    padding-top:10px;
-    padding-left:150px;
+
   }
 
   header .pg_header h1{
-    font-size:2.2em;
+    font-size:2em;
   }
   header .pg_header h2{
     font-size:1.5em;
+  }
+  header .pg_header{
+    padding-top:20px;
+  }
+
+  header .header_menu{
+    bottom:-20px;
   }
 }
 @media screen and (max-width: 600px) {
@@ -222,10 +243,7 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
   }
 }
 
-div.panel-heading{
-  padding:0;
-  margin:0;
-}
+
 
 .panel-title a{
   display:block;
@@ -256,10 +274,6 @@ div.panel-heading{
 
 }
 
-.main-content h2{
-  font-size:2.3em;
-  margin-top:.5em;
-}
 
 
 @media print{
