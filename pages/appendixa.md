@@ -5,8 +5,6 @@ permalink: /appendixa/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Appendix A: Summary of Comments Received
 
 
