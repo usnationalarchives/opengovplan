@@ -5,8 +5,6 @@ permalink: /messages/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Message from the Archivist
 
 <img src="../assets/images/archivist.png" alt="archivist" style="float:right;max-width:200px;">
