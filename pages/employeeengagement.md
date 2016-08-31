@@ -5,7 +5,7 @@ permalink: /employeeengagement/
 description: ""
 ---
 
-### 2.4 Employee Engagement
+### 2.5 Employee Engagement
 
 <h4>Improving Employee Communication and Collaboration</h4>
 
