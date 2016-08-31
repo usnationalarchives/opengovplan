@@ -5,8 +5,6 @@ permalink: /approachopengov/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Section 1: The Approach to Open Government
 
 <p>Agency Open Government Plans serve as a public roadmap that shows how an agency intends to incorporate the principles of open government—transparency, participation, and collaboration—into its core mission. Incorporating these values into the core mission of the National Archives and Records Administration (NARA or National Archives) is an easy task because open government is fundamental to our work.</p>
