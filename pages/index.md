@@ -26,10 +26,10 @@ description: ""
   </p>
   </li>
   <li dir="ltr">
-  <p dir="ltr">On History Hub: If you’d prefer to post your comments, you can also do so on the <a href="https://historyhub.archives.gov/community/open-government" target="_blank">Open Government Space</a> on the History Hub platform.</p>
+  <p dir="ltr">On History Hub: You can also post your comments on the <a href="https://historyhub.archives.gov/community/open-government" target="_blank">Open Government Space</a> on the History Hub platform. You will need to create a History Hub account to login.</p>
   </li>
   <li dir="ltr">
-  <p dir="ltr">On Blogs: You can provide feedback through comments on the <a href="https://aotus.blogs.archives.gov/" target="_blank">AOTUS Blog</a> and on the <a href="https://narations.blogs.archives.gov/" target="_blank">NARAtions Blog</a>.</p>
+  <p dir="ltr">On Blogs: You can provide feedback through comments on the <a href="https://aotus.blogs.archives.gov/" target="_blank">AOTUS Blog</a> and on the <a href="https://narations.blogs.archives.gov/" target="_blank">NARAtions Blog</a>. You will not need to create an account to post your feedback.</p>
   </li>
   <li dir="ltr">
   <p dir="ltr">On other platforms: You can tweet us <a href="https://twitter.com/usnatarchives" target="_blank">@USNatArchives</a> or share your feedback on <a href="https://www.facebook.com/usnationalarchives/" target="_blank">Facebook</a>.</p>
