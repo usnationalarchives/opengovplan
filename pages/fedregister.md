@@ -34,5 +34,5 @@ NARA’s Office of the Federal Register (OFR) provides ready access to the offic
 
 <p>Over the past several years, OFR has been adding its publications, one by one, to the Data.gov repository and to FDsys.gov. We’ve now added the Privacy Act Issuances to both sites.</p>
 
-<p><strong>Digitizing the historic Federal Register </strong><br />
+<p><strong>Digitizing the Historic Federal Register </strong><br />
 The OFR, in partnership with GPO, has started scanning the first set of Federal Register issues (1990-1994) that will be converted to an official PDF format. This project, when complete, will make historical issues of the Federal Register available online, beginning with the first issues from 1936.</p>
