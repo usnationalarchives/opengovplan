@@ -5,8 +5,6 @@ permalink: /foia/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Section 4: Freedom of Information Act
 
 <p><strong>(Archives.gov/foia) </strong></p>
