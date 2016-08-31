@@ -47,9 +47,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>Research Services standardized days of operation at our facilities across the country to eliminate differences and increase staff availability to researchers.</p>
+      <p><strong>Update: </strong>Research Services standardized days of operation at our facilities across the country to eliminate differences and increase staff availability to researchers.</p>
 
       <p>&nbsp;</p>
 
@@ -82,11 +80,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>&nbsp;</p>
-
-      <p>Over 18 million records have been made available for searching through the Access to Archival Databases (AAD). Over 700,000 digital images were uploaded to the National Archives Catalog for download.</p>
+      <p><strong>Update: </strong>Over 18 million records have been made available for searching through the Access to Archival Databases (AAD). Over 700,000 digital images were uploaded to the National Archives Catalog for download.</p>
 
       <p>&nbsp;</p>
 
@@ -120,9 +114,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>The CIA and NARA completed the pilot project. The CIA and NARA partnered with scientists from the Center for Content Understanding (CCU) at the Applied Research Laboratories (ARL) at the University of Texas at Austin to develop a series of technological tools that the government would be able to use to assist classification and declassification decision-making.&nbsp; With the cooperation of the CIA and NARA, the CCU successfully piloted the Sensitive Content Identification and Marking (SCIM) tool on restored email from the Reagan administration. The CCU also re-formatted and parsed the email records to be machine-readable, which was critical to solving issues of obsolesce when reviewing born-digital electronic records for declassification. The CIA and NARA completed quality control reviews on the records to confirm the results of the pilot project. They also started a discussion of next steps for additional use of the SCIM technology for actual decision-making support for declassification review at the CIA, the Presidential libraries and the NDC. This Open Government Proposed Action was also included in NAP 2.0 and continuation of these projects is in NAP 3.0. To learn more about the pilot, see the video from the Public Interested Declassification Board (PIDB) meeting in June 2015 at <a href="https://www.youtube.com/watch?v=2ApwyaB4ldQ">Youtube.com/watch?v=2ApwyaB4ldQ</a><br />
+      <p><strong>Update: </strong>The CIA and NARA completed the pilot project. The CIA and NARA partnered with scientists from the Center for Content Understanding (CCU) at the Applied Research Laboratories (ARL) at the University of Texas at Austin to develop a series of technological tools that the government would be able to use to assist classification and declassification decision-making.&nbsp; With the cooperation of the CIA and NARA, the CCU successfully piloted the Sensitive Content Identification and Marking (SCIM) tool on restored email from the Reagan administration. The CCU also re-formatted and parsed the email records to be machine-readable, which was critical to solving issues of obsolesce when reviewing born-digital electronic records for declassification. The CIA and NARA completed quality control reviews on the records to confirm the results of the pilot project. They also started a discussion of next steps for additional use of the SCIM technology for actual decision-making support for declassification review at the CIA, the Presidential libraries and the NDC. This Open Government Proposed Action was also included in NAP 2.0 and continuation of these projects is in NAP 3.0. To learn more about the pilot, see the video from the Public Interested Declassification Board (PIDB) meeting in June 2015 at <a href="https://www.youtube.com/watch?v=2ApwyaB4ldQ">Youtube.com/watch?v=2ApwyaB4ldQ</a><br />
       and on the PIDB blog at <a href="http://transforming-classification.blogs.archives.gov/2015/07/06/what-we-heard-and-learned-at-our-june-25th-public-meeting/">Transforming-classification.blogs.archives.gov/2015/07/06/what-we-heard-and-learned-at-our-june-25th-public-meeting/</a></p>
       </td>
       <td>
@@ -149,9 +141,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>This pilot project was undertaken at the William J. Clinton Presidential Library. The library and the Office of Innovation collaborated on a project to digitize the highest demand Freedom of Information Act collections.&nbsp; The project created high quality scans along with corresponding metadata for the purpose of adding these images to the National Archives Catalog.&nbsp; The pilot established a team for the project, developed a successful workflow that included both the scanning and metadata creation, compiled accurate statistics and exceeded all project goals.&nbsp; While the pilot is officially completed, the project continues at this time.&nbsp; It is serving as a roadmap for discerning and establishing best practices and lessons learned in the hopes that other parts of NARA can build on this success.&nbsp;</p>
+      <p><strong>Update: </strong>This pilot project was undertaken at the William J. Clinton Presidential Library. The library and the Office of Innovation collaborated on a project to digitize the highest demand Freedom of Information Act collections.&nbsp; The project created high quality scans along with corresponding metadata for the purpose of adding these images to the National Archives Catalog.&nbsp; The pilot established a team for the project, developed a successful workflow that included both the scanning and metadata creation, compiled accurate statistics and exceeded all project goals.&nbsp; While the pilot is officially completed, the project continues at this time.&nbsp; It is serving as a roadmap for discerning and establishing best practices and lessons learned in the hopes that other parts of NARA can build on this success.&nbsp;</p>
       </td>
       <td>
       <p>2.2</p>
@@ -177,9 +167,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>NARA staff members were provided opportunities to share and gain expertise by participating in blogging, creating and delivering reference colloquia, and giving lectures.</p>
+      <p><strong>Update: </strong>NARA staff members were provided opportunities to share and gain expertise by participating in blogging, creating and delivering reference colloquia, and giving lectures.</p>
       </td>
       <td>
       <p>2.3</p>
@@ -201,9 +189,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>In 2015 Research Services led an important initiative to implement a new approach to the Archives Technician career field. We established a new Archives Technician (GS-1421) position description that allows for development from the 5 to 7 level. 143 employees were hired in 2015/2016 on this new position description. We also launched an Archives Technician Development Program which provides the training needed to meet competencies and skills required for advancement.&nbsp;</p>
+      <p><strong>Update:   </strong>In 2015 Research Services led an important initiative to implement a new approach to the Archives Technician career field. We established a new Archives Technician (GS-1421) position description that allows for development from the 5 to 7 level. 143 employees were hired in 2015/2016 on this new position description. We also launched an Archives Technician Development Program which provides the training needed to meet competencies and skills required for advancement.&nbsp;</p>
 
       <p>&nbsp;</p>
 
@@ -232,9 +218,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>SEPMs worked in collaboration with NARA offices to evaluate policies, procedures, and practices to help create a work environment that supports fair and open competition for all employees regardless of their differences; fosters learning; promotes individual development opportunities; analyze workforce data to help identify existing and/or potential barriers to employment and makes recommendations to eliminate barriers. Seven SEPM workgroups have been developed to examine and execute Equal Employment Opportunity (EEO) initiatives. A copy of the goals can be requested from the EEO Office. Learn more about NARA’s EEO office at <a href="http://www.archives.gov/eeo/">Archives.gov/eeo/</a>.&nbsp;</p>
+      <p><strong>Update:   </strong>SEPMs worked in collaboration with NARA offices to evaluate policies, procedures, and practices to help create a work environment that supports fair and open competition for all employees regardless of their differences; fosters learning; promotes individual development opportunities; analyze workforce data to help identify existing and/or potential barriers to employment and makes recommendations to eliminate barriers. Seven SEPM workgroups have been developed to examine and execute Equal Employment Opportunity (EEO) initiatives. A copy of the goals can be requested from the EEO Office. Learn more about NARA’s EEO office at <a href="http://www.archives.gov/eeo/">Archives.gov/eeo/</a>.&nbsp;</p>
       </td>
       <td>
       <p>2.3</p>
@@ -522,9 +506,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>Our current FOIA Backlog, as of April 14, 2016, is 4,979. This represents an increase since April 2014, when the backlog was 4,522 requests.</p>
+      <p><strong>Update: </strong>Our current FOIA Backlog, as of April 14, 2016, is 4,979. This represents an increase since April 2014, when the backlog was 4,522 requests.</p>
 
       <p>&nbsp;</p>
 
@@ -552,9 +534,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>Electronic Records Archive (ERA) ERA 2.0, represents a significant upgrade from the functionality of ERA 1.0, which does not include full text search capability for federal archival records.&nbsp; ERA 2.0 is utilizing Elasticsearch, and will include a variety of search options. Design work is ongoing with respect to visualization of search results, clustering, and concept searching. NARA is fully committed to robust search functionality in ERA 2.0, as it is developed.</p>
+      <p><strong>Update: </strong>Electronic Records Archive (ERA) ERA 2.0, represents a significant upgrade from the functionality of ERA 1.0, which does not include full text search capability for federal archival records.&nbsp; ERA 2.0 is utilizing Elasticsearch, and will include a variety of search options. Design work is ongoing with respect to visualization of search results, clustering, and concept searching. NARA is fully committed to robust search functionality in ERA 2.0, as it is developed.</p>
       </td>
       <td>
       <p>4.3</p>
@@ -779,9 +759,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>In 2013 NARA began the process of meeting with business owners from across the agency to identify the gaps in functionality and identify requirements to modernize ERA. Development of ERA 2.0 began in fall 2014, proceeding in monthly development increments. In mid-2015 we launched the Pilot Digital Processing Environment with an updated workflow and, a new modular processing environment with a suite of utilities and tools, and a Pilot Digital Object Repository for managed preservation services and storage. The pilot is being tested by over 100 NARA staff members to ensure that this next generation of ERA fits into the new federal frameworks for electronic records management and transfer to NARA. The third pilot update will take place in mid-2016. Development is continuing; the planned production launch is currently scheduled for late 2017.&nbsp; Iterative development will continue after the initial launch, as will the development of an accompanying separate environment for Classified records. The ultimate goal is to greatly expand the functionality of ERA to include workflows for all record types and digitized records, greatly expand the range of tools needed to process records and create public use versions, and to implement a robust preservation environment, all in a framework that makes it easier to update the system to meet developing needs.</p>
+      <p><strong>Update: </strong>In 2013 NARA began the process of meeting with business owners from across the agency to identify the gaps in functionality and identify requirements to modernize ERA. Development of ERA 2.0 began in fall 2014, proceeding in monthly development increments. In mid-2015 we launched the Pilot Digital Processing Environment with an updated workflow and, a new modular processing environment with a suite of utilities and tools, and a Pilot Digital Object Repository for managed preservation services and storage. The pilot is being tested by over 100 NARA staff members to ensure that this next generation of ERA fits into the new federal frameworks for electronic records management and transfer to NARA. The third pilot update will take place in mid-2016. Development is continuing; the planned production launch is currently scheduled for late 2017.&nbsp; Iterative development will continue after the initial launch, as will the development of an accompanying separate environment for Classified records. The ultimate goal is to greatly expand the functionality of ERA to include workflows for all record types and digitized records, greatly expand the range of tools needed to process records and create public use versions, and to implement a robust preservation environment, all in a framework that makes it easier to update the system to meet developing needs.</p>
       </td>
       <td>
       <p>5.4</p>
@@ -803,9 +781,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>OGIS has developed a robust agency FOIA compliance program (<a href="https://ogis.archives.gov/foia-compliance-program.htm">ogis.archives.gov/foia-compliance-program.htm</a>). The scope and methodology of agency assessments is also described in the Compliance Team’s Standard Operating Procedures. The program also is outlined in draft OGIS regulations that entered the interagency comment process in February 2016 and, beginning in Fiscal Year 2015, OGIS committed to publishing its calendar for agency assessments prior to the beginning of the fiscal year.</p>
+      <p><strong>Update: </strong>OGIS has developed a robust agency FOIA compliance program (<a href="https://ogis.archives.gov/foia-compliance-program.htm">ogis.archives.gov/foia-compliance-program.htm</a>). The scope and methodology of agency assessments is also described in the Compliance Team’s Standard Operating Procedures. The program also is outlined in draft OGIS regulations that entered the interagency comment process in February 2016 and, beginning in Fiscal Year 2015, OGIS committed to publishing its calendar for agency assessments prior to the beginning of the fiscal year.</p>
       </td>
       <td>
       <p>5.5</p>
@@ -829,9 +805,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>The FOIA Advisory Committee held quarterly meetings throughout 2014 – 2016 (<a href="https://ogis.archives.gov/foia-advisory-committee/2014-2016-term/meetings.htm">ogis.archives.gov/foia-advisory-committee/2014-2016-term/meetings.htm</a>). The Director of OGIS chairs the committee and an OGIS staff is designated to provide administrative support. The Archivist renewed the committee’s charter for an additional two years on May 20, 2016.</p>
+      <p><strong>Update: </strong>The FOIA Advisory Committee held quarterly meetings throughout 2014 – 2016 (<a href="https://ogis.archives.gov/foia-advisory-committee/2014-2016-term/meetings.htm">ogis.archives.gov/foia-advisory-committee/2014-2016-term/meetings.htm</a>). The Director of OGIS chairs the committee and an OGIS staff is designated to provide administrative support. The Archivist renewed the committee’s charter for an additional two years on May 20, 2016.</p>
       </td>
       <td>
       <p>5.5</p>
@@ -855,9 +829,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update: </strong></p>
-
-      <p>OGIS staff participated in the Department of Justice’s task force and provided comments on draft materials. The Department of Justice issued a template for agencies to use when developing FOIA regulations in March 2016.</p>
+      <p><strong>Update: </strong>OGIS staff participated in the Department of Justice’s task force and provided comments on draft materials. The Department of Justice issued a template for agencies to use when developing FOIA regulations in March 2016.</p>
       </td>
       <td>
       <p>5.5</p>
@@ -889,9 +861,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p><strong>Update:&nbsp; </strong></p>
-
-      <p>ISOO submitted its Fiscal Year 2014 Annual Report to the President in May 2015, providing current statistics and analysis of the security classification system based on ISOO’s review of Departments’ and Agencies’ programs. ISOO supported more than 20 meetings of the ISCAP, preparing 1, 507 documents for review by the panel. In support of the PIDB, ISOO provided staff support for 12 meetings, including a public meeting with senior agency officials from the White House and helped establish the PIDB’s Declassification Technology Working Group. ISOO assessed the declassification programs of five agencies, monitoring agency progress and making recommendations for improvements. ISOO examined the implementation of the classified national security information program at seven agencies. Through on-site reviews, ISOO evaluated agency performance in the areas of program organization and management, classification and marking, security education and training, self-inspections, security violation procedures, safeguarding practices and information systems security. ISOO supported three meetings of the National Industrial Security Program Policy Advisory Committee (NISPPAC) and published six corresponding Committee Reports, detailing the updates the committee membership made to the National Industrial Security Program Operating Manual.&nbsp; ISOO also supported two meetings of the State, Local, Tribal, and Private Sector Policy Advisory Committee (SLTPS-PAC) and published four corresponding Committee Reports, describing various programmatic updates to the SLTPS Security Program.</p>
+      <p><strong>Update:&nbsp; </strong>ISOO submitted its Fiscal Year 2014 Annual Report to the President in May 2015, providing current statistics and analysis of the security classification system based on ISOO’s review of Departments’ and Agencies’ programs. ISOO supported more than 20 meetings of the ISCAP, preparing 1, 507 documents for review by the panel. In support of the PIDB, ISOO provided staff support for 12 meetings, including a public meeting with senior agency officials from the White House and helped establish the PIDB’s Declassification Technology Working Group. ISOO assessed the declassification programs of five agencies, monitoring agency progress and making recommendations for improvements. ISOO examined the implementation of the classified national security information program at seven agencies. Through on-site reviews, ISOO evaluated agency performance in the areas of program organization and management, classification and marking, security education and training, self-inspections, security violation procedures, safeguarding practices and information systems security. ISOO supported three meetings of the National Industrial Security Program Policy Advisory Committee (NISPPAC) and published six corresponding Committee Reports, detailing the updates the committee membership made to the National Industrial Security Program Operating Manual.&nbsp; ISOO also supported two meetings of the State, Local, Tribal, and Private Sector Policy Advisory Committee (SLTPS-PAC) and published four corresponding Committee Reports, describing various programmatic updates to the SLTPS Security Program.</p>
       </td>
       <td>
       <p>5.6</p>
@@ -913,7 +883,7 @@ description: ""
 
       <p>&nbsp;</p>
 
-      <p>Update: ISOO advanced its policy development strategy by completing a draft implementing directive and entering the formal process for incorporation into the Code of Federal Regulations, which included an opportunity for public comment. The EA plans to issue a national implementation plan for the Executive branch based on a phased timeline with the adoption of the directive. ISOO continues publishing requirements and providing training resources through the CUI EA website and online CUI Registry.&nbsp;</p>
+      <p><b>Update: </b>ISOO advanced its policy development strategy by completing a draft implementing directive and entering the formal process for incorporation into the Code of Federal Regulations, which included an opportunity for public comment. The EA plans to issue a national implementation plan for the Executive branch based on a phased timeline with the adoption of the directive. ISOO continues publishing requirements and providing training resources through the CUI EA website and online CUI Registry.&nbsp;</p>
       </td>
       <td>
       <p>5.6</p>
