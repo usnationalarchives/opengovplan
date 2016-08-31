@@ -5,8 +5,6 @@ permalink: /sustainingopengov/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### 2.1 Sustaining Open Government
 
 <p>We recognize that while our work is critical to open government, it is equally important that we continue to strengthen the principles of transparency, participation, and collaboration in how we do our work. As we described in our third open government plan, the values of open government are fully embedded in our Strategic Plan for 2014–2018. Our plan will help us align our priorities and assign resources in a way that sustains our investment in government openness.</p>

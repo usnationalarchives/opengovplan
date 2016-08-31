@@ -5,8 +5,6 @@ permalink: /pubengagement/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### 2.2 Public Engagement
 
 <p>At the National Archives and Records Administration (NARA), we connect with many different audiences with multiple expectations and needs. Whether we catch the eye of someone scanning social media or draw in conference participants, we encourage the public to learn more about what NARA does and how to use its resources.</p>
