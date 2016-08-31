@@ -5,10 +5,6 @@ permalink: /fedregister/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### Section 6: Provide Leadership and Services
-
 #### 6.7 Office of the Federal Register
 
 <p><u>(</u><a href="http://archives.gov/federal-register/">http://archives.gov/federal-register/</a>)<br />
