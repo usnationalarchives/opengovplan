@@ -16,6 +16,10 @@ table{
 .main-content{
   line-height:1.5em;
 }
+
+.main-content li{
+  margin-bottom:0px;
+}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
   font-weight:bold;
   font-size: 1.5em;
