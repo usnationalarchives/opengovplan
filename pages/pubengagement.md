@@ -43,9 +43,10 @@ The National Archives promotes citizen engagement across several social media pl
   <li>A genealogy chat on American Indian records in the National Archives at Fort Worth</li>
   <li>Creating #ArchivesValentine posts to share</li>
   <li>Hosting a #Spirited Republic chat with the exhibit curator</li>
+  <li>With Presidential libraries, coordinating #ThanksMenu posts as part of a live discussion with other museums</li>
 </ul>
 
-<p>With Presidential libraries, coordinating #ThanksMenu posts as part of a live discussion with other museums</p>
+
 
 <p>We hosted an Instameet (#ArchivesInstameet) on the architecture of the National Archives Building in Washington, DC, and participated in a White House Instameet (#WHInstameet). Themed Instagram posts included #archivesAtoZ, which shares our holdings through weekly themes organized by the alphabet; #ArchivesSuperlative, which featured the #biggest, #sparkliest, and #spookiest of our holdings; and #POTUSvacation, which shared short film snippets from 13 Presidential libraries in a “choose your own adventure format.”</p>
 
