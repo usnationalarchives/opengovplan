@@ -5,9 +5,7 @@ permalink: /employeeengagement/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### 2.4 Presidential Libraries
+### 2.5 Employee Engagement
 
 <h4>Improving Employee Communication and Collaboration</h4>
 
@@ -94,7 +92,7 @@ description: ""
 &nbsp;</p>
 
 <ul>
-  <li>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Stonewall (LGBT) </strong>- create an inclusive workplace where Lesbian, Gay, Bisexual, Transgender and Questioning employees, and allies, assist NARA in fostering an environment that is accepting and supportive.</li>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Stonewall (LGBT) </strong>- create an inclusive workplace where Lesbian, Gay, Bisexual, Transgender and Questioning employees, and allies, assist NARA in fostering an environment that is accepting and supportive.</li>
   <li><strong>IKE (Veterans)</strong> - assist in the promotion of a work culture that recognizes, supports, and develops the unique characteristics of NARA’s military personnel.</li>
   <li><strong>HALO (Hispanic-Latino)</strong> - enhance the quality of life at NARA for Hispanic and Latino employees, and promote external awareness of NARA in Hispanic/Latino communities.</li>
   <li><strong>disABILITY (Individuals with Disabilities)</strong> - focus on the awareness and resolution of the challenges facing individuals with disabilities in the workplace and seek to assist them in career advancement.</li>
