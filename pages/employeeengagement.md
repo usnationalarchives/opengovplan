@@ -5,8 +5,6 @@ permalink: /employeeengagement/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### 2.4 Presidential Libraries
 
 <h4>Improving Employee Communication and Collaboration</h4>
