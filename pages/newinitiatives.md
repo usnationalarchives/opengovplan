@@ -5,8 +5,6 @@ permalink: /newinitiatives/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Section 5: New and Ongoing Open Government Initiatives
 
 #### Open Data
