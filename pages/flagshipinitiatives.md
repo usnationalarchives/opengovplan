@@ -24,8 +24,7 @@ description: ""
 </ol>
 <h4>Initiative 1 - Innovation Hub</h4>
 
-<p>(<a href="https://www.archives.gov/innovation-hub/">Archives.gov/innovation-hub/</a>)<br />
-&nbsp;</p>
+<p>(<a href="https://www.archives.gov/innovation-hub/">Archives.gov/innovation-hub/</a>)</p>
 
 <p>The Innovation Hub is a new collaboration space at the National Archives Building in Washington, DC, where NARA staff and the public can work on projects that enhance access to records and drive innovation back into the work of the agency. NARA will hire the first Innovation Hub Director to lead these efforts. Over the next two years, the Innovation Hub will accelerate innovation so that we can stay ahead of the curve when it comes to solving our most difficult problems. We will seek to incorporate human-centered design in our processes and explore the intersection of cutting-edge archival, information technology, and communication practices. The Chief Innovation Officer and the Innovation Hub Director will work together to ignite a culture of innovation across NARA, leveraging internal and external expertise to utilize technology, engage with the public, and collaborate with stakeholders.</p>
 
@@ -167,7 +166,7 @@ More than a third of visitors to NARA’s websites access our information via a 
 
 <p>(<a href="https://catalog.archives.gov/">Catalog.archives.gov/</a>)</p>
 
-<p><br />
+<p>
 The National Archives Catalog contains more than 13 million digital objects, including digitized and born-digital records. More than 94 percent of the records of the National Archives are described in the catalog, totaling 10.9 million descriptions of records. Over 300 NARA staff members, including archivists, specialists, and technicians, are responsible for describing NARA’s records. This includes 34 offices within two program areas—Research Services and Legislative Archives, Presidential Libraries, and Museum Services. Description covers a wide variety of subjects in a wide variety of formats, including textual records, sound recordings, motion pictures, maps, still pictures, electronic records, and artifacts.</p>
 
 
@@ -222,7 +221,7 @@ NARA is a partner in the Social Networks and Archival Context (SNAC) cooperative
 
 <p>NARA’s Strategic Plan includes the initiative to “Digitize all analog archival records to make them available online.” The volume of our textual holdings alone, 12 billion pieces of paper, make a single approach to digitization impractical: multiple paths are required. Our Digitization Strategy acknowledges this challenge by outlining five approaches that NARA will use to meet our goal: 1) partnerships; 2) Ccrowdsourced digitization; 3) agency transfers of digitized records; 4) internal digitization as part of a business process; 5) NARA’s Digitization Labs.</p>
 
-<p><br />
+<p>
 The implementation of the Digitization Governance Board (DGB) has created a framework for NARA to systematically address digitization issues from practice to policy. Together with the strategy, the DGB has created a structure for digitization at the National Archives. NARA is shifting from policy to an implementation posture as more of the foundational issues are addressed.</p>
 
 
