@@ -7,7 +7,7 @@ description: ""
 
 #### 6.7 Office of the Federal Register
 
-<p><u>(</u><a href="http://archives.gov/federal-register/">http://archives.gov/federal-register/</a>)<br />
+<p><u>(</u><a href="http://archives.gov/federal-register/">Archives.gov/federal-register</a>)<br />
 NARA’s Office of the Federal Register (OFR) provides ready access to the official text of federal laws, Presidential documents, agency regulations, and descriptions of federal organizations, programs, and activities. OFR publications include the daily Federal Register, the Electronic Code of Federal Regulations (eCFR), the annual Code of Federal Regulations (CFR), Privacy Act Issuances, Public and Private Laws, U.S. Statutes at Large, the Public Papers of the Presidents of the United States, the Daily Compilation of Presidential Documents, and the U.S. Government Manual. All OFR publications are produced jointly with the Government Publishing Office (GPO) under a long-standing statutory partnership.</p>
 
 <p><strong>Open Government at the OFR </strong></p>
