@@ -5,8 +5,6 @@ permalink: /appendixc/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Appendix C: Updates to 2014–2016 NARA Open Government Commitments
 
 <p>The following table includes all National Archives and Records Administration (NARA) 2014–2016 Open Government Plan proposed actions, narrative updates on the implementation, and overall status of each action. The status categories include:</p>
