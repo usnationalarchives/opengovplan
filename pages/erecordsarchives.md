@@ -16,7 +16,7 @@ description: ""
 <p>(<a href="http://www.archives.gov/era/">Archives.gov/era/</a>)<br />
 Electronic Records Archives (ERA) is a complex information management system that was developed to archive the variety of electronic records that the government currently produces. ERA is designed to support access by authorized users within NARA and across the federal government, as well as provide public access to releasable records. The continued existence of ERA is crucial to open government because it will provide long-term preservation and access to electronic records.</p>
 
-<img src="../assets/images/erecords.png" alt="System to system diagram" class="imgright">
+<img src="../assets/images/erecords.png" alt="System to system diagram" style="with:100%" class="imgright">
 <p>ERA is a “system of systems,” with multiple components that perform archival functions and manage records governed by different legal frameworks. The complexity of ERA architecture is simplified by this diagram, which shows the four essential functions that ERA performs.</p>
 
 <ul>
