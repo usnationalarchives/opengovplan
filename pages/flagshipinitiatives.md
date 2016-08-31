@@ -62,9 +62,8 @@ description: ""
 <h4><a name="h.g55skusm88ik"></a>Initiative 3 - Social Media Strategy</h4>
 
 <p>(<a href="http://nara-web.github.io/social-media-strategy/introduction/">Nara-web.github.io/social-media-strategy/</a>)<br />
-<br />
-In 2009, NARA launched our first blog as a pilot project to build a community and increase transparency in the federal government. Soon after, the National Archives established a presence on Flickr, YouTube, and Facebook. In 2010, as a commitment from our first Open Government Plan, we introduced our <a href="http://www.archives.gov/social-media/strategies/">first social media strategy</a> to empower staff to use social media.<br />
-&nbsp;</p>
+
+In 2009, NARA launched our first blog as a pilot project to build a community and increase transparency in the federal government. Soon after, the National Archives established a presence on Flickr, YouTube, and Facebook. In 2010, as a commitment from our first Open Government Plan, we introduced our <a href="http://www.archives.gov/social-media/strategies/">first social media strategy</a> to empower staff to use social media.</p>
 
 <p>Six years later, the landscape of digital media has evolved and grown. Our digital presence reaches hundreds of millions of people. More than 200 National Archives staff members actively contribute to <a href="http://www.archives.gov/social-media/">130 social media accounts</a> on 14 different platforms, generating over 250 million views in 2015.</p>
 
