@@ -19,7 +19,7 @@ description: ""
   <p dir="ltr">Discuss on Github: We have published this plan on Github so that you can easily provide comments through the “<a href="https://github.com/usnationalarchives/opengovplan/issues/" target="_blank">Discuss</a>” feature located on the upper right or bottom left of each page. Select “Discuss” and then “New issue” or comment on existing issues. You will need to create a Github Account to create an issue.</p>
   </li>
   <li dir="ltr">
-  <p dir="ltr">Edit on Github: We have published this plan on Github so that you can also provide suggsted edits by submitting a pull request with the specific language changes. Select the “Edit” function on the upper right or bottom left of any page to make a suggested language edit to that page. You will need to create a Github Account to submit a suggested edit through a pull request. </p>
+  <p dir="ltr">Edit on Github: We have published this plan on Github so that you can also provide suggested edits by submitting a pull request with the specific language changes. Select the “Edit” function on the upper right or bottom left of any page to make a suggested language edit to that page. You will need to create a Github Account to submit a suggested edit through a pull request. </p>
   </li>
   <li dir="ltr">
   <p dir="ltr">By email: If you prefer to email your comments and feedback, please email <a href="mailto:opengov@nara.gov" target="_blank">opengov@nara.gov</a>. We will post all comments received by email on to the “issues” on Github. If you do not wish us to share your feedback, please state so in your email.
