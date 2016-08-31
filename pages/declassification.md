@@ -5,10 +5,6 @@ permalink: /declassification/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### Section 6: Provide Leadership and Services
-
 #### 6.2 National Declassification Center
 
 <img src="../assets/images/declassificationlogo.png" alt="National Declassification Center" class="imgright">

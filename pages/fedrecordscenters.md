@@ -5,10 +5,6 @@ permalink: /fedrecordscenters/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### Section 6: Provide Leadership and Services
-
 #### 6.3 Federal Records Centers
 
 

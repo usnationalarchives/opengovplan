@@ -5,10 +5,6 @@ permalink: /informationsecurityoffice/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### Section 6: Provide Leadership and Services
-
 #### 6.6 Information Security Oversight Office
 
 (<a href='http://archives.gov/isoo/'>Archives.gov/isoo/</a>)
