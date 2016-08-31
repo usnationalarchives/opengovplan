@@ -10,7 +10,7 @@ description: ""
 ### Section 6: Provide Leadership and Services
 
 #### 6.5 Office of Government Information Services
-(ogis.archives.gov/)
+(<a href="http://ogis.archives.gov">ogis.archives.gov/</a>)
 
 The Office of Government Information Services (OGIS) opened at the National Archives and Records Administration (NARA) in September 2009. Amendments to the FOIA signed by President Obama on June 30, 2016 expand OGIS’s role in providing mediation services to resolve FOIA disputes between requesters and federal agencies, reviewing agencies’ policies, procedures and compliance under FOIA, and identifying policies and procedures for improving compliance with FOIA.
 
