@@ -5,10 +5,6 @@ permalink: /informationservice/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### Section 6: Provide Leadership and Services
-
 #### 6.5 Office of Government Information Services
 (ogis.archives.gov/)
 
