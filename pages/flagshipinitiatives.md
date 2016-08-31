@@ -24,7 +24,7 @@ description: ""
 </ol>
 <h4>Initiative 1 - Innovation Hub</h4>
 
-<p>(<a href="https://www.archives.gov/innovation-hub/">Archives.gov/innovation-hub/</a>)</p>
+<p>(<a href="https://www.archives.gov/innovation-hub/">Archives.gov/innovation-hub/</a>)<br>&nbsp;</p>
 
 <p>The Innovation Hub is a new collaboration space at the National Archives Building in Washington, DC, where NARA staff and the public can work on projects that enhance access to records and drive innovation back into the work of the agency. NARA will hire the first Innovation Hub Director to lead these efforts. Over the next two years, the Innovation Hub will accelerate innovation so that we can stay ahead of the curve when it comes to solving our most difficult problems. We will seek to incorporate human-centered design in our processes and explore the intersection of cutting-edge archival, information technology, and communication practices. The Chief Innovation Officer and the Innovation Hub Director will work together to ignite a culture of innovation across NARA, leveraging internal and external expertise to utilize technology, engage with the public, and collaborate with stakeholders.</p>
 
@@ -60,7 +60,8 @@ description: ""
 
 <h4><a name="h.g55skusm88ik"></a>Initiative 3 - Social Media Strategy</h4>
 
-<p>(<a href="http://nara-web.github.io/social-media-strategy/introduction/">Nara-web.github.io/social-media-strategy/</a>)<br />
+<p>(<a href="http://nara-web.github.io/social-media-strategy/introduction/">Nara-web.github.io/social-media-strategy/</a>)<br />&nbsp;</p>
+<p>
 
 In 2009, NARA launched our first blog as a pilot project to build a community and increase transparency in the federal government. Soon after, the National Archives established a presence on Flickr, YouTube, and Facebook. In 2010, as a commitment from our first Open Government Plan, we introduced our <a href="http://www.archives.gov/social-media/strategies/">first social media strategy</a> to empower staff to use social media.</p>
 
@@ -134,7 +135,7 @@ NARA’s Citizen Archivist Dashboard and related crowdsourcing efforts are inclu
 
 <h4><a name="h.sspq8d6u3ha5"></a>Initiative 6 - Archives.gov</h4>
 
-<p>(<a href="http://archives.gov/">Archives.gov</a>)</p>
+<p>(<a href="http://archives.gov/">Archives.gov</a>)<br>&nbsp;</p>
 
 
 
@@ -164,7 +165,7 @@ More than a third of visitors to NARA’s websites access our information via a 
 
 <h4><a name="h.xkboevuem51x"></a>Initiative 7 - National Archives Catalog</h4>
 
-<p>(<a href="https://catalog.archives.gov/">Catalog.archives.gov/</a>)</p>
+<p>(<a href="https://catalog.archives.gov/">Catalog.archives.gov/</a>)<br>&nbsp;</p>
 
 <p>
 The National Archives Catalog contains more than 13 million digital objects, including digitized and born-digital records. More than 94 percent of the records of the National Archives are described in the catalog, totaling 10.9 million descriptions of records. Over 300 NARA staff members, including archivists, specialists, and technicians, are responsible for describing NARA’s records. This includes 34 offices within two program areas—Research Services and Legislative Archives, Presidential Libraries, and Museum Services. Description covers a wide variety of subjects in a wide variety of formats, including textual records, sound recordings, motion pictures, maps, still pictures, electronic records, and artifacts.</p>
@@ -204,7 +205,8 @@ The National Archives Catalog contains more than 13 million digital objects, inc
 <h4><a name="h.pgllvqodl1ql"></a>Initiative 9 - Social Networks and Archival Context (SNAC)</h4>
 
 <p>(<a href="http://socialarchive.iath.virginia.edu/">Socialarchive.iath.virginia.edu/</a>)
-<br />
+<br />&nbsp;</p>
+<p>
 NARA is a partner in the Social Networks and Archival Context (SNAC) cooperative and serves as the Secretariat, coordinating all governance and administrative tasks during a two-year pilot phase funded by the Andrew Mellon Foundation. SNAC demonstrates the feasibility of separating the descriptions of persons, families, and organizations, including their socio-historical contexts, from the description of historical resources that are primary evidence of their lives and work. One key objective of SNAC is to provide researchers with convenient, integrated access to historical collections held by multiple private and public archives and libraries around the world, while also setting the stage for a cooperative program for maintaining information about the people documented in the collections. SNAC will enable archivists, librarians, and scholars to jointly maintain information about the people documented in archival collections. It will also improve the economy and quality of archival processing and description, and address the challenge of discovering, locating, and using distributed historical records.</p>
 
 
@@ -217,7 +219,7 @@ NARA is a partner in the Social Networks and Archival Context (SNAC) cooperative
 
 <h4><a name="h.glfn4mkdfcqe"></a>Initiative 10 - Digitization</h4>
 
-<p>(<a href="http://archives.gov/digitization/">Archives.gov/digitization</a>)</p>
+<p>(<a href="http://archives.gov/digitization/">Archives.gov/digitization</a>)<br>&nbsp;</p>
 
 <p>NARA’s Strategic Plan includes the initiative to “Digitize all analog archival records to make them available online.” The volume of our textual holdings alone, 12 billion pieces of paper, make a single approach to digitization impractical: multiple paths are required. Our Digitization Strategy acknowledges this challenge by outlining five approaches that NARA will use to meet our goal: 1) partnerships; 2) Ccrowdsourced digitization; 3) agency transfers of digitized records; 4) internal digitization as part of a business process; 5) NARA’s Digitization Labs.</p>
 

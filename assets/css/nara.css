@@ -330,3 +330,8 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
   padding-left:20px;
   padding-bottom:5px;
 }
+
+.indent {
+  padding-left:50px;
+  text-indent: -30px ;
+}
