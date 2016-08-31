@@ -5,9 +5,6 @@ permalink: /erecordsarchives/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
-### Section 6: Provide Leadership and Services
 #### 6.4 Electronic Records Archives
 
 
