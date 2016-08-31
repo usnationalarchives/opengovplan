@@ -319,6 +319,6 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 .imgright{
   float:right;
   max-width:200px;
-  padding-left:10px;
+  padding-left:20px;
   padding-bottom:5px;
 }
