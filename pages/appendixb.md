@@ -5,8 +5,6 @@ permalink: /appendixb/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Appendix B: 2016–2018 NARA Open Government Commitments
 
 
