@@ -278,39 +278,47 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 
 @media print{
 
-header{
-position:relative;
-display:block;
-}
-.header_menu{
-	display:none;
+  header{
+  position:relative;
+  display:block;
+  }
+  .header_menu{
+  	display:none;
+  }
+
+  aside{
+  	display:none;
+  }
+  article{
+  	width:100%;
+  	margin:0;
+  	padding:0;
+  }
+
+  .collapse { display: block !important; height: auto !important; }
+
+  .panel-group .panel, .panel-group .panel-heading, .panel-group .panel-title{
+  	padding:0;
+  	margin:0;
+  }
+  .panel-title a span.glyphicon{
+  	display:none;
+  }
+
+  a:after{
+  	content:"" !important;
+  }
+
 }
 
-aside{
-	display:none;
-}
-article{
-	width:100%;
-	margin:0;
-	padding:0;
-}
-
-.collapse { display: block !important; height: auto !important; }
-
-.panel-group .panel, .panel-group .panel-heading, .panel-group .panel-title{
-	padding:0;
-	margin:0;
-}
-.panel-title a span.glyphicon{
-	display:none;
-}
-
-a:after{
-	content:"" !important;
-}
-
-}
-
-.sidebar-nav>ul li span, .sidebar-nav>ul li ul li span{
+.sidebar-nav span{
   font-size: 90%;
+
+}
+
+.imgright{
+  float:right;
+  max-width:200px;
+  padding-left:10px;
+  padding-bottom:5px;
 }

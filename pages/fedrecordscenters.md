@@ -11,7 +11,7 @@ description: ""
 
 #### 6.3 Federal Records Centers
 
-<img src="../assets/images/erecords.png" alt="System to system diagram" style="float:right;max-width:200px">
+<img src="../assets/images/erecords.png" alt="System to system diagram" class="imgright">
 <p>(<a href="http://archives.gov/frc/">Archives.gov/frc/</a>)</p>
 
 <p>Through its nationwide network of 18 facilities with more than 1,100 federal employees, the centers serve 400 federal agencies. Federal Records Centers store and service every kind of federal record—tax returns, claims files for military veterans, blueprints of federal buildings and structures, cancelled checks for Social Security payments and tax refunds, bankruptcy court records, inmate files on federal prisoners, and maps of national parks to name just a few. Federal Records Centers hold records for any citizen who has ever served in the military, had a Social Security number, or applied for a passport.</p>

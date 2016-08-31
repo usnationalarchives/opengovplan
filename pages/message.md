@@ -9,7 +9,7 @@ description: ""
 
 ### Message from the Archivist
 
-<img src="../assets/images/archivist.png" alt="archivist" style="float:right;max-width:200px;">
+<img src="../assets/images/archivist.png" alt="archivist" class="imgright">
 Since 2010 we have embraced the requirements of the Open Government Directive, which set forth requirements for agencies to adopt the principles of transparency, participation, and collaboration and develop open government plans. In our previous open government plans, we worked to implement more than 140 commitments in areas of records management, declassification, the Freedom of Information Action, and in innovative ways of providing access to the records of the National Archives.
 
 This plan, our fourth, will see us through a Presidential transition and contains more than 50 specific commitments to strengthen open government at the National Archives and across government from 2016 to 2018. While one could anticipate the enthusiasm for open government winding down during the end of a second term of the Administration, we have seen the opposite. During the development of this plan we saw an increase in momentum and greater engagement from the public and staff in open government initiatives. We held more than 20 internal brainstorming sessions and briefings, including our first Open Government Town Hall, which was webcast for staff members in our locations across the country. We also held our first Open Government webinar for our external stakeholders with nearly 100 participants. Our engagement efforts brought in more than 180 ideas, comments, and suggestions that we considered for inclusion in this plan.

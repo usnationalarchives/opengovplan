@@ -11,7 +11,7 @@ description: ""
 
 #### 6.2 National Declassification Center
 
-<img src="../assets/images/declassificationlogo.png" alt="National Declassification Center" style="float:right;max-width:200px">
+<img src="../assets/images/declassificationlogo.png" alt="National Declassification Center" class="imgright">
 
 <p>(<a href="http://archives.gov/declassification/">Archives.gov/declassification</a>)</p>
 
