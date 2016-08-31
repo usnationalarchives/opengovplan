@@ -5,11 +5,9 @@ permalink: /foia/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Section 4: Freedom of Information Act
 
-<p><strong>(Archives.gov/foia) </strong></p>
+<p><strong>(<a href="http://www.archives.gov/foia/">Archives.gov/foia</a>) </strong></p>
 
 <p>At the National Archives and Records Administration, we understand that the effective implementation of the Freedom of Information Act (FOIA) is a critical component of open government. NARA’s staff, at all levels of the agency, is committed to improved compliance with the statute and the spirit of openness established by existing policy. Our primary goals are to expand our ability to act on FOIA requests in a timely manner, actively work to decrease our backlog of pending requests, find workable solutions to facilitate the prompt review of classified records by agencies that have interests in the records, work with the Office of Government Information Services to mediate or resolve issues that prevent NARA’s ability to fully process a pending request, and proactively disclose information that is of interest to FOIA requesters and the research community at large.</p>
 
