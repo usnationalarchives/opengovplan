@@ -5,8 +5,6 @@ permalink: /presidentiallibraries/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### 2.4 Presidential Libraries
 
 <p>The Office of Presidential Libraries at NARA administers a nationwide network of 13 Presidential libraries beginning with the 31st President of the United States, Herbert Hoover. On January 20, 2017, NARA will take legal custody of the Presidential records from the Obama administration, which will eventually be housed in the Barack Obama Presidential Library to be located in Chicago. These are not traditional libraries, but rather repositories for preserving and making accessible the papers, records, and other historical materials of U.S. Presidents. Presidential libraries and museums are important sources for historians and researchers studying our presidents and our history. In addition to archiving and preserving Presidential papers and objects, Presidential libraries and museums bring history to millions of in-person and online visitors from around the world.&nbsp;</p>

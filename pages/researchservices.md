@@ -5,8 +5,6 @@ permalink: /researchservices/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### 2.3 Research Services
 
 NARA’s Office of Research Services is the custodian for over 4 million cubic feet of archival records from executive branch agencies and federal courts dating to the 18th century. These records are stored, managed, and made available by Research Services at 14 locations across the country. At these various locations we provide services that enable anyone the opportunity to discover, locate, and use the records they seek. Research Services is committed to making access to our archival holdings as open, transparent, and accessible as possible.
