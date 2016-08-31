@@ -5,8 +5,6 @@ permalink: /flagshipinitiatives/
 description: ""
 ---
 
-## Open Government Plan 2016 - 2018
-
 ### Section 3: Flagship Initiatives: Make Access Happen Through Innovation
 
 <p>The Open Government Plan of the National Archives and Records Administration (NARA) serves as a public roadmap that shows how we incorporated the principles of open government—transparency, participation, and collaboration—into the agency’s core mission and how open government is fundamental to our work. Our leadership in open government is clear in our mission: <em>We drive openness, cultivate public participation, and strengthen our nation’s democracy through public access to high-value government records. </em>You will find evidence of our embrace of transparency, participation, and collaboration throughout our current Strategic Plan, our past open government plans, and in the work we do every day. With our fourth Open Government Plan, we intend to build on existing efforts and push for further innovation over the next two years. We welcome your input and help in shaping these open government initiatives.</p>
