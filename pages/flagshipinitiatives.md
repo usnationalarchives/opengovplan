@@ -221,7 +221,7 @@ NARA is a partner in the Social Networks and Archival Context (SNAC) cooperative
 
 <p>(<a href="http://archives.gov/digitization/">Archives.gov/digitization</a>)<br>&nbsp;</p>
 
-<p>NARA’s Strategic Plan includes the initiative to “Digitize all analog archival records to make them available online.” The volume of our textual holdings alone, 12 billion pieces of paper, make a single approach to digitization impractical: multiple paths are required. Our Digitization Strategy acknowledges this challenge by outlining five approaches that NARA will use to meet our goal: 1) partnerships; 2) Ccrowdsourced digitization; 3) agency transfers of digitized records; 4) internal digitization as part of a business process; 5) NARA’s Digitization Labs.</p>
+<p>NARA’s Strategic Plan includes the initiative to “Digitize all analog archival records to make them available online.” The volume of our textual holdings alone, 12 billion pieces of paper, make a single approach to digitization impractical: multiple paths are required. Our Digitization Strategy acknowledges this challenge by outlining five approaches that NARA will use to meet our goal: 1) partnerships; 2) crowdsourced digitization; 3) agency transfers of digitized records; 4) internal digitization as part of a business process; 5) NARA’s Digitization Labs.</p>
 
 <p>
 The implementation of the Digitization Governance Board (DGB) has created a framework for NARA to systematically address digitization issues from practice to policy. Together with the strategy, the DGB has created a structure for digitization at the National Archives. NARA is shifting from policy to an implementation posture as more of the foundational issues are addressed.</p>
