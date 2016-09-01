@@ -266,7 +266,7 @@ description: ""
       <p>17</p>
       </td>
       <td>
-      <p>NARA will seek to expand our citizen archivist crowdsourcing effort and hire two community managers to help us grow engaged communities around our records. We will work towards a goal of enhancing more than 1 million records within the National Archives by 2025.</p>
+      <p>NARA will seek to expand our citizen archivist crowdsourcing effort and hire two community managers to help us grow engaged communities around our records. By Fiscal Year 2025, NARA will have 1 million enhancements, via citizen contributions, to records within the National Archvies Catalog.</p>
       </td>
       <td>
       <p>Section 3,<br />
