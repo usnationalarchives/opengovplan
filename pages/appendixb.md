@@ -663,9 +663,9 @@ description: ""
       <ul>
         <li>continue to monitor and report on the state of classification and declassification in government through its annual Report to the President</li>
         <li>provide guidance and report on agency adherence to the Fundamental Classification Guidance Review (FCGR) as required by Executive Order</li>
-        <li>continue its support the ISCAP, including support for the 2017 declassification exemption review required by Executive Order &nbsp;</li>
+        <li>continue its support of the ISCAP, including support for the 2017 declassification exemption review required by Executive Order &nbsp;</li>
         <li>continue to provide all staff support for the Public Interest Declassification Board (PIDB) and its Declassification Technology Working Group and will assist the Security Classification Reform Committee when requested to fulfill the President’s transformation tasking</li>
-        <li>with the issuance of 32 CFR 2002, plans to issue Controlled Unclassified Information program phased implementation schedule for the Executive branch.</li>
+        <li>with the issuance of 32 CFR 2002, plan to issue Controlled Unclassified Information program phased implementation schedule for the Executive branch.</li>
       </ul>
       </td>
       <td>
