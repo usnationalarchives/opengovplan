@@ -38,18 +38,5 @@
   <p>
     <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}">Edit this page</a>
   </p>
-  <!--
-  <p>
-    <a href="{{ site.baseurl }}/print/" onclick="loadPrint();return false;">Print All</a>
-  <p>
-  -->
-<script>
-  function loadPrint() {
-    $("<iframe>")                             // create a new iframe element
-        .hide()                               // make it invisible
-        .attr("src", "{{ site.baseurl }}/print/") // point the iframe to the page you want to print
-        .appendTo("body");                    // add iframe to the DOM to cause it to load the page
 
-}
-</script>
 </aside>
