@@ -1,6 +1,5 @@
 .bundle/
 .sass-cache/
 Gemfile.lock
-#_site/print
+!_site/print/index.html
 _site/
-
