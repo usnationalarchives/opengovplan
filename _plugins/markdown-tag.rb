@@ -12,8 +12,7 @@ module Jekyll
 
     def render(context)
       tmpl = File.read File.join Dir.pwd, "pages", @text
-      tmpl=tmpl.gsub(Regexp.new("---.*---", Regexp::MULTILINE), '')
-      site = context.registers[:site]
+            site = context.registers[:site]
       converter = site.find_converter_instance(Jekyll::Converters::Markdown)
       tmpl = (Liquid::Template.parse tmpl).render site.site_payload
       html = converter.convert(tmpl)
