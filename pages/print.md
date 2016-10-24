@@ -3215,8 +3215,3 @@ Given the importance of America’s founding documents, we will continue to inve
 <p>&nbsp;</p>
 
 
-
-
-<script>
-window.print();
-</script>
