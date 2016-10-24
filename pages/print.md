@@ -1,7 +1,7 @@
 ---
 layout: print
 title: Open Government Plan
-permalink: /print
+permalink: /print/
 description: ""
 ---
 
