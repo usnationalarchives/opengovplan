@@ -59,7 +59,7 @@ In advance of the administration transition, NARA updated guidance for all feder
 NARA has implemented internal procedures to streamline the posting of records schedules into the repository. Moving forward, NARA will host an open meeting to solicit feedback from the public, agency customers, and other stakeholders on improvements to the website and the functionality of the repository. NARA will also continue to evaluate improvements to the records schedule repository and website.</p>
 
 <p><strong>Regulatory Updates</strong><br />
-NARA is working to modernize 36 CFR Chapter XII Subchapter B, Electronic Records Management regulations. Currently, seven parts have been revised. These regulations have been outpaced by technology and business needs, and have been rewritten to update records management practices for the 21st century.<br />
+NARA is working to modernize 36 CFR Chapter XII Subchapter B, Records Management regulations. Currently, seven parts have been revised. These regulations have been outpaced by technology and business needs, and have been rewritten to update records management practices for the 21st century.<br />
 <br />
 A proposed rule published on March 9, 2016, proposing changes to the following CFR parts:</p>
 
